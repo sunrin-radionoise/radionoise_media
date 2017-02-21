@@ -7,7 +7,7 @@
   <Color name="String" foreground="Brown"  />
   <Color name="Character" foreground="Magenta"  />
   <Color name="Comment" foreground="#56A64A" />
-  <Color name="Punctuation" foreground="#FF49FF49" />
+  <Color name="Punctuation" foreground="#FFFFFFFF" />
   <Color name="AccessKeywords" foreground="#FF569CD6" fontWeight="bold" />
   <Color name="OperatorKeywords" foreground="#FF569CD6" fontWeight="bold" />
   <Color name="SelectionStatements" foreground="#FF569CD6" fontWeight="bold" />
